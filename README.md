@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Giu999
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Giu999/Giu999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Interested in systems, products, crypto, and ideas with real structure.  
+Currently learning code, markets, and how to build things that last.  
+Open to collaborating on early-stage, internet-native projects.  
+📫 Reach me here or follow the signal.
